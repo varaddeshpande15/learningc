@@ -1,6 +1,6 @@
 // #include<stdio.h>
 
-// int main() 
+//  int main() 
 // main - Header file library.Let us work with input & output functions like printf()
 // {
 //     printf("Hello World!"); 
